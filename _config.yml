@@ -2,3 +2,5 @@ title: Hello Human
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
+# could fork if you want to edit it persistently
+remote_theme: sergiokopplin/violet
